@@ -1,0 +1,26 @@
+[2025-12-25 14:24:29] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:29.464412+08:00 michael-clanor-VirtualBox sshd[5445]: Invalid user fakeuser from 127.0.0.1 port 41232
+[2025-12-25 14:24:35] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:35.290203+08:00 michael-clanor-VirtualBox sshd[5445]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+[2025-12-25 14:24:37] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:37.271633+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:38] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:37.271633+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:40] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:24:41] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:41.778508+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:43] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:24:44] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:41.778508+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:46] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:24:48] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:48.250340+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:49] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:24:51] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:48.250340+08:00 michael-clanor-VirtualBox sshd[5445]: Failed password for invalid user fakeuser from 127.0.0.1 port 41232 ssh2
+[2025-12-25 14:24:52] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:24:53] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:48.821275+08:00 michael-clanor-VirtualBox sshd[5445]: Connection closed by invalid user fakeuser 127.0.0.1 port 41232 [preauth]
+[2025-12-25 14:24:55] SECURITY ALERT: Failed Attempt: 2025-12-25T14:24:48.821951+08:00 michael-clanor-VirtualBox sshd[5445]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+[2025-12-25 14:44:21] SECURITY ALERT: Failed Attempt: 2025-12-25T14:44:21.936426+08:00 michael-clanor-VirtualBox sshd[6046]: Invalid user fakeuser from 127.0.0.1 port 41988
+[2025-12-25 14:44:26] SECURITY ALERT: Failed Attempt: 2025-12-25T14:44:26.329415+08:00 michael-clanor-VirtualBox sshd[6046]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+[2025-12-25 14:44:29] SECURITY ALERT: Failed Attempt: 2025-12-25T14:44:28.912545+08:00 michael-clanor-VirtualBox sshd[6046]: Failed password for invalid user fakeuser from 127.0.0.1 port 41988 ssh2
+[2025-12-25 14:44:31] SECURITY ALERT: Failed Attempt: 2025-12-25T14:44:28.912545+08:00 michael-clanor-VirtualBox sshd[6046]: Failed password for invalid user fakeuser from 127.0.0.1 port 41988 ssh2
+[2025-12-25 14:44:33] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
+[2025-12-25 14:48:37] SECURITY ALERT: Failed Attempt: 2025-12-25T14:48:37.257869+08:00 michael-clanor-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname=michael-clanor uid=1000 euid=0 tty=/dev/pts/2 ruser=michael-clanor rhost=  user=michael-clanor
+[2025-12-25 15:01:03] SECURITY ALERT: Failed Attempt: 2025-12-25T15:01:03.467946+08:00 michael-clanor-VirtualBox sshd[6771]: Invalid user fakeuser from 127.0.0.1 port 47714
+[2025-12-25 15:01:08] SECURITY ALERT: Failed Attempt: 2025-12-25T15:01:07.925564+08:00 michael-clanor-VirtualBox sshd[6771]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+[2025-12-25 15:01:09] SECURITY ALERT: Failed Attempt: 2025-12-25T15:01:09.832017+08:00 michael-clanor-VirtualBox sshd[6771]: Failed password for invalid user fakeuser from 127.0.0.1 port 47714 ssh2
+[2025-12-25 15:01:12] SECURITY ALERT: Failed Attempt: 2025-12-25T15:01:09.832017+08:00 michael-clanor-VirtualBox sshd[6771]: Failed password for invalid user fakeuser from 127.0.0.1 port 47714 ssh2
+[2025-12-25 15:01:14] SECURITY ALERT: CRITICAL: Brute Force detected from IP 127.0.0.1
